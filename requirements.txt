@@ -1,5 +1,6 @@
-pandas~=1.3.3
+xverse~=1.0.5
 numpy~=1.21.2
-seaborn~=0.11.2
 matplotlib~=3.4.3
+pandas~=1.3.3
+seaborn~=0.11.2
 scikit_learn~=1.0
