@@ -1,4 +1,4 @@
-# tabular-data
+# tabular-data test auto pull
 1. **EDA&Preprocessing**:
   * *Heart_Failure_EDA_and_Train_Test_Split.ipynb* - Разведочный анализ данных + базовая подготовка данных БЕЗ масштабирования и кодирования категориальных признаков. 
   Разбиение данных на трейн и тест. 
