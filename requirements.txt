@@ -5,3 +5,11 @@ xverse~=1.0.5
 matplotlib~=3.4.3
 scikit_learn~=1.0
 dill~=0.3.3
+statsmodels~=0.10.1
+networkx>=2.0
+sympy>=1.4
+pydot>=1.4
+pygraphviz~=1.7
+dowhy~=0.6
+ipython~=7.28.0
+
