@@ -11,5 +11,5 @@ sympy>=1.4
 pydot>=1.4
 pygraphviz~=1.7
 dowhy~=0.6
-ipython~=7.28.0
+ipython~>7.31.1
 
